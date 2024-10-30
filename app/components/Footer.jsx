@@ -10,11 +10,11 @@ export default function Footer() {
         <div className="flex-1 flex flex-col md:flex-row justify-end gap-4">
           <div className="flex gap-2 items-center">
             <Phone size={12} className="text-blue-500" />
-            <h2 className="text-sm text-gray-600">+91 910 XXXXXXX</h2>
+            <h2 className="text-sm text-gray-600">+91 000 XXXXXXX</h2>
           </div>
           <div className="flex gap-2 items-center">
             <Mail size={12} className="text-blue-500" />
-            <h2 className="text-sm text-gray-600">rajendraaverma@gmail.com</h2>
+            <h2 className="text-sm text-gray-600">nitish2kumar91@gmail.com</h2>
           </div>
           <div className="flex gap-2 items-center">
             <MapPin size={12} className="text-blue-500" />
@@ -24,7 +24,7 @@ export default function Footer() {
       </div>
       <div className="flex justify-center w-full">
         <h3 className="text-xs text-gray-700">
-          © 2024 . All rights reserved by [APNA NAAM]
+          © 2024 . All rights reserved by Nitish Kumar
         </h3>
       </div>
     </footer>

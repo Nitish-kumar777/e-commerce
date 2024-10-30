@@ -8,7 +8,7 @@ export default function CustomerReviews() {
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
       rating: 4.5,
       imageLink:
-        "https://emilly-store1.myshopify.com/cdn/shop/files/bakery-testi-1.jpg?v=1721992196&width=512",
+        "/coustomer.jpg",
     },
     {
       name: "Oscar Nommanee",
@@ -16,7 +16,7 @@ export default function CustomerReviews() {
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
       rating: 5,
       imageLink:
-        "https://emilly-store1.myshopify.com/cdn/shop/files/bakery-testi-5.jpg?v=1721992196&width=512",
+        "coustomer1.jpg",
     },
     {
       name: "Emma Watsom",
@@ -24,7 +24,7 @@ export default function CustomerReviews() {
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
       rating: 4.5,
       imageLink:
-        "https://emilly-store1.myshopify.com/cdn/shop/files/bakery-testi-6.jpg?v=1721992197&width=512",
+        "/coustomer2.jpg",
     },
   ];
   return (
